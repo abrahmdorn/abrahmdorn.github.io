@@ -1,0 +1,145 @@
+.intro-final{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .contactMe-intro{
+    display: block;
+    margin: 0 auto;
+  }
+.newEmail{
+    --bs-text-opacity: 1;
+    margin-bottom: .5rem !important;
+    font-weight: 600;
+    font-size: 2rem;
+}
+.header{
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  height: 100px;
+  z-index: 2;
+  border-bottom: 1px #555555;
+}
+.leftmenu{
+  top: 114px;
+  left: 5px;
+  width: 100px;
+  bottom: 39px;
+  z-index: 1;
+  padding-top: 40px;
+  border-right: 1px #000000;
+}
+.mainbody{
+  top: 114px;
+  left: 114px;
+  right: 114px;
+  bottom: 39px;
+  padding-right: 5px;
+}
+.rightmenu{
+  top: 114px;
+  right: 5px;
+  width: 100px;
+  bottom: 39px;
+  border-left: 1px #555555;
+  padding-left: 5px;
+}
+.footer{
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  height: 25px;
+  font-size: 8px;
+  color: #999999;
+  text-align: center;
+  padding-top: 15px;
+  position: fixed;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.697);
+  background-color: rgb(19, 0, 18);
+}
+li {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+a{color:aliceblue;
+text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:visited{
+  color: #999999;
+}
+
+.resumeH{
+  font-weight: bolder;
+  font-style: normal;
+}
+.tab2{
+  width:550px; align-self: center; position: relative; padding-left: 42rem;
+}
+.bold{
+  width: 550px center; position: relative; padding-left: 50rem; align-self:baseline; padding-bottom: 100px;
+}
+.justify{
+  align-self: center; position: relative; padding-left: 35rem; width: 750px; height: auto; padding-right: 15px; padding-top: 15px; margin-top: 15px; padding-bottom: 900;
+}
+.align{
+  width: 550px; height: auto; padding-right: 15px; padding-bottom: 200px; padding-left: 700px;
+}
+.tabWord{
+  width: 700; height: auto; 
+}
+.middleAlign{
+  text-align: center; padding-bottom: 10rem;
+}
+
+.px850{
+  min-width: 850px; padding-bottom:15px;  padding-left: 32.25rem; 
+}
+.botPad{
+  padding-bottom: 1rem;
+}
+.homebg {
+  background-image: none;
+  background-position: top right;
+}
+.box1{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+
+}
+.box2{
+  padding: 5px;
+}
+.box3{
+  margin: 50px;
+}
+
+.header{
+  background-color: #4b0f0f;
+  padding: 10px;
+}
+.main{
+  background-color: #13bc87;
+  padding: 20px;
+  min-height: 400px;
+}
+.footer{
+  background-color: #4b0f0f;
+  padding: 10px;
+  align-items: center;
+}
+.common{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 15px;
+  color: #999999;
+}
